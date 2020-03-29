@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hdmi1-main.qml</file>
+        <file>lvds1-main.qml</file>
+    </qresource>
+</RCC>
